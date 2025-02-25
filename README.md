@@ -1,7 +1,7 @@
 # Hola, mi nombre es Eduardo Ortega Torres 👋🏼  
 Data Scientist Junior apasionado por el análisis de datos, machine learning y la automatización. Actualmente, me encuentro profundizando mis conocimientos en Python, SQL y ML. He trabajado en proyectos que incluyen análisis de ventas, predicción de riesgos y optimización de procesos mediante la visualización de datos.
 
-🔍 Mis proyectos incluyen el uso de herramientas como Pandas,NumPy, Matplotlib y Scikit-Learn, están orientados a resolver problemas del mundo real mediante la aplicación de modelos predictivos y análisis exploratorio de datos.
+🔍 Mis proyectos incluyen el uso de herramientas como Pandas, NumPy, Matplotlib y Scikit-Learn, están orientados a resolver problemas del mundo real mediante la aplicación de modelos predictivos y análisis exploratorio de datos.
 
 🚀 Siempre busco aprender nuevas habilidades y tecnologías para mejorar la calidad y eficiencia de mis soluciones. Estoy constantemente desarrollando proyectos personales para poner a prueba mis habilidades y enfrentar nuevos retos.
 
