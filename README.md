@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola Mi nombre es Eduardo Ortega Torres
 
 <!--
 **Eduardo56745/Eduardo56745** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
