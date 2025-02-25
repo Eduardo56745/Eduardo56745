@@ -1,5 +1,5 @@
 <h1 align="center"><b>Hola, mi nombre es Eduardo Ortega </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> 
-Data Scientist Junior apasionado por el análisis de datos, machine learning y la automatización. Actualmente, me encuentro profundizando mis conocimientos en Python, SQL y ML. He trabajado en proyectos que incluyen análisis de ventas, predicción de riesgos y optimización de procesos mediante la visualización de datos.
+Data Scientist apasionado por el análisis de datos, machine learning y la automatización. Actualmente, me encuentro profundizando mis conocimientos en Python, SQL y ML. He trabajado en proyectos que incluyen análisis de ventas, predicción de riesgos y optimización de procesos mediante la visualización de datos.
 
 🔍 Mis proyectos incluyen el uso de herramientas como Pandas, NumPy, Matplotlib y Scikit-Learn, están orientados a resolver problemas del mundo real mediante la aplicación de modelos predictivos y análisis exploratorio de datos.
 
