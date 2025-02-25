@@ -3,8 +3,11 @@
 🚀 Apasionado por el análisis de datos, Machine Learning y SQL  
 💡 Siempre aprendiendo y explorando nuevas tecnologías  
 
-🔗 **Conéctate conmigo:**  
-[LinkedIn](https://www.linkedin.com/in/eduardo-ortega-30154629a/) | [Portafolio](tu_portafolio) | [Correo](lalox1697@gmail.com)  
+🔗 **Conéctate conmigo:**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-ortega-30154629a/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lalox1697@gmail.com) 
+  
 
 ### 🛠️ Tecnologías y herramientas  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
