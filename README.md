@@ -1,7 +1,5 @@
 # Hola, mi nombre es Eduardo Ortega Torres 👋🏼  
-📊 Data Scientist Jr. | 📚 Estudiante de Ingeniería en Sistemas  
-🚀 Apasionado por el análisis de datos, Machine Learning y SQL  
-💡 Siempre aprendiendo y explorando nuevas tecnologías  
+
 
 🔗 **Conéctate conmigo:**
 
