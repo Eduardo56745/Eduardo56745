@@ -5,7 +5,7 @@ Data Scientist apasionado por el análisis de datos, machine learning y la autom
 
 🚀 Siempre busco aprender nuevas habilidades y tecnologías para mejorar la calidad y eficiencia de mis soluciones. Estoy constantemente desarrollando proyectos personales para poner a prueba mis habilidades y enfrentar nuevos retos.
 
-📂 En mi perfil encontrarás mis proyectos más recientes, enfocados en Data Science, Big Data, ML y Data Visualization.
+📂 En el siguiente botón encontrarás mis proyectos más recientes, enfocados en Data Science, Big Data, ML y Data Visualization.
 
 [![Proyectos](https://img.shields.io/badge/📒%20Proyectos-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eduardo56745/Proyectos)
 
