@@ -30,7 +30,8 @@ Data Scientist apasionado por el análisis de datos, machine learning y la autom
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=Google%20Cloud&logoColor=white)
-[![CatBoost](https://catboost.ai/docs/en/images/logo.svg)](https://catboost.ai/)
+![CatBoost](https://img.shields.io/badge/CatBoost-Model-orange)
+
 
 
 
