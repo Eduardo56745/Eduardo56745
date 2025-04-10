@@ -28,6 +28,7 @@ Data Scientist apasionado por el análisis de datos, machine learning y la autom
 ![LightGBM](https://img.shields.io/badge/LightGBM-1890FF?style=for-the-badge&logo=LightGBM&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
+![ResNet](https://img.shields.io/badge/ResNet-000000?style=for-the-badge&logo=ResNet&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=Matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-008080?style=for-the-badge&logo=Seaborn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
