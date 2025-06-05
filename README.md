@@ -39,6 +39,39 @@ Data Scientist apasionado por el análisis de datos, machine learning y la autom
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=Google%20Cloud&logoColor=white)
 
 
+---
+<h1 align="center"><b>Hola, mi nombre es Eduardo Ortega</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+---
+
+Soy Data Scientist apasionado por el análisis de datos, machine learning y la automatización. Actualmente, estoy profundizando mis conocimientos en Python, SQL y ML. He trabajado en proyectos que incluyen análisis de ventas, predicción de riesgos y optimización de procesos mediante visualización de datos.
+
+### Sobre mí
+- 🔍 Experiencia en análisis exploratorio, modelos predictivos y automatización de procesos.
+- 🚀 En constante aprendizaje de nuevas tecnologías para mejorar calidad y eficiencia.
+- 📂 Desarrollo proyectos personales para enfrentar retos y fortalecer habilidades.
+
+### Proyectos destacados
+Mis proyectos utilizan herramientas como Pandas, NumPy, Matplotlib y Scikit-Learn, orientados a resolver problemas reales a través del análisis y modelado predictivo.
+
+[![Proyectos](https://img.shields.io/badge/📒%20Proyectos-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eduardo56745/Proyectos)
+
+¡No dudes en explorar y dejarme tus comentarios!
+
+---
+
+### 🛠️ Tecnologías y herramientas
+
+[![My Skills](https://skillicons.dev/icons?i=py,sql,git,pandas,numpy,scikitlearn,lightgbm,pytorch,keras,resnet,matplotlib,seaborn,scipy,jupyter,gcloud,excel,powerbi&theme=light)](https://skillicons.dev)
+
+---
+
+### 📫 Conéctate conmigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-ortega-30154629a/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lalox1697@gmail.com)
+
+
+
 
 
 
