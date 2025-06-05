@@ -1,47 +1,5 @@
 ---
-<h1 align="center"><b>Hola, mi nombre es Eduardo Ortega </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> 
----
-
-Data Scientist apasionado por el análisis de datos, machine learning y la automatización. Actualmente, me encuentro profundizando mis conocimientos en Python, SQL y ML. He trabajado en proyectos que incluyen análisis de ventas, predicción de riesgos y optimización de procesos mediante la visualización de datos.
-
-🔍 Mis proyectos incluyen el uso de herramientas como Pandas, NumPy, Matplotlib y Scikit-Learn, están orientados a resolver problemas del mundo real mediante la aplicación de modelos predictivos y análisis exploratorio de datos.
-
-🚀 Siempre busco aprender nuevas habilidades y tecnologías para mejorar la calidad y eficiencia de mis soluciones. Estoy constantemente desarrollando proyectos personales para poner a prueba mis habilidades y enfrentar nuevos retos.
-
-📂 En el siguiente botón encontrarás mis proyectos más recientes, enfocados en Data Science, Big Data, ML y Data Visualization.
-
-[![Proyectos](https://img.shields.io/badge/📒%20Proyectos-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eduardo56745/Proyectos)
-
-
-¡No dudes en explorar y darme tus comentarios!
-
-🔗 **Conéctate conmigo:**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-ortega-30154629a/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lalox1697@gmail.com) 
-  
-
-### 🛠️ Tecnologías y herramientas  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-1890FF?style=for-the-badge&logo=LightGBM&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
-![ResNet](https://img.shields.io/badge/ResNet-000000?style=for-the-badge&logo=ResNet&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=Matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-008080?style=for-the-badge&logo=Seaborn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=Google%20Cloud&logoColor=white)
-
-
----
 <h1 align="center"><b>Hola, mi nombre es Eduardo Ortega</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
----
 
 Soy Data Scientist apasionado por el análisis de datos, machine learning y la automatización. Actualmente, estoy profundizando mis conocimientos en Python, SQL y ML. He trabajado en proyectos que incluyen análisis de ventas, predicción de riesgos y optimización de procesos mediante visualización de datos.
 
@@ -59,19 +17,31 @@ Mis proyectos utilizan herramientas como Pandas, NumPy, Matplotlib y Scikit-Lear
 
 ---
 
-### 🛠️ Tecnologías y herramientas
+### 🛠️ *Skills:*
+<p align="left">
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white&logoWidth=40&label=" height="40"/>
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-025E8C?style=flat-square&logo=sqlite&logoColor=white&logoWidth=40&label=" height="40"/>
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white&logoWidth=40&label=" height="40"/>
+  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white&logoWidth=40&label=" height="40"/>
+  <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white&logoWidth=40&label=" height="40"/>
+  <img alt="Scikit-learn" src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white&logoWidth=40&label=" height="40"/>
+  <img alt="LightGBM" src="https://img.shields.io/badge/-LightGBM-1890FF?style=flat-square&logo=LightGBM&logoColor=white&logoWidth=40&label=" height="40"/>
+  <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white&logoWidth=40&label=" height="40"/>
+  <img alt="Keras" src="https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=Keras&logoColor=white&logoWidth=40&label=" height="40"/>
+  <img alt="ResNet" src="https://img.shields.io/badge/-ResNet-000000?style=flat-square&logo=ResNet&logoColor=white&logoWidth=40&label=" height="40"/>
+  <img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-3776AB?style=flat-square&logo=Matplotlib&logoColor=white&logoWidth=40&label=" height="40"/>
+  <img alt="Seaborn" src="https://img.shields.io/badge/-Seaborn-008080?style=flat-square&logo=Seaborn&logoColor=white&logoWidth=40&label=" height="40"/>
+  <img alt="SciPy" src="https://img.shields.io/badge/-SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white&logoWidth=40&label=" height="40"/>
+  <img alt="Jupyter Notebook" src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white&logoWidth=40&label=" height="40"/>
+  <img alt="Google Cloud" src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white&logoWidth=40&label=" height="40"/>
+  <img alt="Excel" src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white&logoWidth=40&label=" height="40"/>
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=py,sql,git,pandas,numpy,scikitlearn,lightgbm,pytorch,keras,resnet,matplotlib,seaborn,scipy,jupyter,gcloud,excel,powerbi&theme=light)](https://skillicons.dev)
 
 ---
 
-### 📫 Conéctate conmigo
+🔗 **Conéctate conmigo:**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-ortega-30154629a/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lalox1697@gmail.com)
-
-
-
-
-
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lalox1697@gmail.com)  
 
