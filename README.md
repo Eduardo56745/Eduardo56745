@@ -35,7 +35,7 @@ Para ver la **descripción detallada, métricas, y enlaces a las apps funcionale
 <br>
 
 <p align="center">
-[![Portafolio Completo](https://img.shields.io/badge/🌐%20Ver%20Portafolio%20(github.io)-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://eduardo56745.github.io/) 
+[🌐 **VER MI PORTAFOLIO COMPLETO**](https://eduardo56745.github.io/)
 </p>
 
 ***
